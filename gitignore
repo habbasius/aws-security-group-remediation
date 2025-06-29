@@ -1,0 +1,7 @@
+# Ignore Terraform working directory files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.zip
+*.DS_Store
+
